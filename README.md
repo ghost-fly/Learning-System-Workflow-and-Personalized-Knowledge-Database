@@ -25,6 +25,9 @@ Five LLM roles are wired as slash commands, each with a narrow posture and invok
 •	Librarian — handles cross-links, tags, and index bookkeeping
 •	Lint Auditor — runs a monthly health check on the vault
 The design principle is a deliberate division of labor: the human evaluates sources, decides what is true, and writes the note content. The LLM maintains structure, runs scrutiny on request, and handles all housekeeping. The LLM never decides what survives.
+
 Everything lives in plain markdown with YAML frontmatter and wikilinks, so the vault is portable forever and works in vanilla Obsidian without plugins. Notes are atomic where they can be, map-shaped where they can't, with granularity discovered through decomposition rather than decreed up front.
+
 Comes with templates for each stage, weekly/monthly review routines, and a CLAUDE.md operating contract an LLM reads at session start.
 
+![LSW & PKD System At Glance Diagram](LSW & PKD System At Glance Diagram.png)
