@@ -30,4 +30,4 @@ Everything lives in plain markdown with YAML frontmatter and wikilinks, so the v
 
 Comes with templates for each stage, weekly/monthly review routines, and a CLAUDE.md operating contract an LLM reads at session start.
 
-![LSW & PKD System At Glance Diagram](LSW & PKD System At Glance Diagram.png)
+![](LSW%&%PKD%System%At%Glance%Diagram.png)
